@@ -1,3 +1,5 @@
+// Bài tập sử dụng access modifier
+
 public class TestCircle {
     private double radius = 1.0;
     private String color = "red";
